@@ -1,0 +1,2 @@
+# Isaret
+Sayinin isaretini goterir
